@@ -23,8 +23,7 @@
   },
   "homepage": "https://github.com/bhanuc/nc",
  "devDependencies": {
-	"mocha": "1.20.0",
-	"should": "4.0.0"
+    "mocha": "1.20.0",
 	
   }
 }
