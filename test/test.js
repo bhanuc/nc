@@ -14,7 +14,7 @@ var callback = function(err,stdout,stderr){
 
 describe("no error compile", function(){
 it('should give no error if C file gets compiled without error', function(done) {
-	nc.compile(location+'error.c',callback);
+	nc.compile(location+'error.c', null, callback);
 	done();
 });
 });

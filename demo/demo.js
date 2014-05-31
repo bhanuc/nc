@@ -11,4 +11,4 @@ var callback = function(err,stdout,stderr){
 		console.log('stderr: '+stderr+'& stdout: '+stdout);
 	}
 };
-var result = n_c.compile(location+'/demo.c',callback);
+var result = n_c.compile(location+'/demo.c',null,callback);

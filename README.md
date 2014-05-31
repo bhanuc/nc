@@ -19,7 +19,7 @@ var callback = function(err,stdout,stderr){
 		console.log('stderr: '+stderr+'& stdout: '+stdout);
 	}
 };
-var result = n_c.compile(location+'/demo.c',callback);
+var result = n_c.compile(location+'/demo.c', null, callback);
 ```
 
 
@@ -30,7 +30,8 @@ npm install nc-cluster
 ```
 
 #Test:
-Coming very Soon !!
+
+mocha
 
 #API
 err is an object with follwing attributes 
@@ -48,3 +49,9 @@ stderr: Actual error returned
 #Author:
 
 Bhanu Pratap Chaudhary
+
+#Version History
+
+0.0.1 - First release only exited
+
+0.0.2 - Added options
