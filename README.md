@@ -57,3 +57,6 @@ Bhanu Pratap Chaudhary
 0.0.2 - Added options
 
 0.0.3 - Add method to run the compiled code
+
+0.0.4 - Added secondary method to run compiled code"
+
