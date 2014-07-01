@@ -60,3 +60,4 @@ Bhanu Pratap Chaudhary
 
 0.0.4 - Added secondary method to run compiled code"
 
+0.0.5 - Bug fixes
