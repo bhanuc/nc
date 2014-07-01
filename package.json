@@ -28,6 +28,6 @@
 	
   },
   "dependencies": {
-    "pty,js": "0.2.4"
+    "pty.js": "0.2.4"
   }
 }

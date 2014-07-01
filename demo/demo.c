@@ -4,6 +4,6 @@
 
 main()
 {
-    pritf("Hello World"); // THis will return the error
+    printf("Hello World"); // THis will compile w/o error
 
 }
