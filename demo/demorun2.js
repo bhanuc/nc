@@ -12,4 +12,4 @@ var callback = function(err, data){
 	}
 };
 
-var runresult = n_c.execute2(location, 'a.out', "1 \n 2 \n 3 \n", callback);
+var runresult = n_c.execute2('workspace/nc/demo', 'a.out', "1 \n 2 \n 3 \n", callback);

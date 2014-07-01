@@ -12,4 +12,4 @@ var callback = function(err, data){
 	}
 };
 
-var runresult = n_c.execute(location, 'a.out', {}, callback);
+var runresult = n_c.execute('.', 'a.out', {}, callback);
