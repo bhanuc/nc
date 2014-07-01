@@ -55,3 +55,5 @@ Bhanu Pratap Chaudhary
 0.0.1 - First release only exited
 
 0.0.2 - Added options
+
+0.0.3 - Add method to run the compiled code

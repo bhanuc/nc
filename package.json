@@ -1,6 +1,6 @@
 {
   "name": "n_c",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compile C code on Node Process and return error if any",
   "main": "./lib/main.js",
   "scripts": {
